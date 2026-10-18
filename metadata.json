@@ -1,0 +1,6 @@
+{
+  "name": "Akhada — All-in-One Gym Discovery & Fitness Management Platform",
+  "description": "Discover premier gyms and Akhadas, manage digital passes, track attendance and PRs, shop supplements & equipment, and compete on athlete leaderboards. Owned & Administered by Ansh Dwivedi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
